@@ -1,0 +1,10 @@
+1) Tạo S3 + Connect RAW (CSV) + Processed Data (JSON) 
+2) Tạo Lambda để up file lên S3 + làm pydantic pipeline + Setup SQS
+==> Tất cả bằng CLI
+3) Đăng kí TK Quicksight + viết doc lưu ý
+4) Cho nó link qua RDS trước => Thành công rồi nuke thằng RDS
+5) Deploy thử trên AWS bằng CLI
+
+(Check hết snapshot để xóa toàn bộ những thứ không liên quan)
+
+

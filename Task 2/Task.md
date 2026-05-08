@@ -1,0 +1,4 @@
+
+
+1. File data: https://drive.google.com/drive/folders/1WP9algfaqzgUjb_l_jXVkCwRfwv0K9TX?fbclid=IwY2xjawRo_OBleHRuA2FlbQIxMABicmlkETFJaUlkZ0daRm14RXkwNmtOc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHi5awsmXA2w7ZiSeVxx3zh_Da8xdWK1j8DRrmNrsKG0o3_3pAMEZjCXNy39Z_aem_QFTKjuZoPcFckhLXzWSKqA
+2. Link Latex: https://www.overleaf.com/3796685678hhmdfxskxcwt#7c81e8
