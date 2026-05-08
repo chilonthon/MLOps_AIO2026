@@ -9,8 +9,8 @@ import AWS from 'aws-sdk';
 // Import config
 const config = {
   region: 'us-east-1',
-  accessKeyId: 'AKIAZ3MGNLBVOJS4FHW4',
-  secretAccessKey: '0cVnzwYsfUT86eCn0w5XJ/ZSlDI/wh+pBhFf+yWm',
+  accessKeyId: 'add your access key',
+  secretAccessKey: 'add your secret key',
   rawBucket: 'chilonthon-raw-bucket',
 };
 
